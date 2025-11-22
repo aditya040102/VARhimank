@@ -1,7 +1,17 @@
-# [![waylon walker header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/himank-varshney-42b96717a/)
+# Hi there 👋 I'm Himank Varshney
 
-Hello 🟢 My name is Himank Varshney and I am a CSE college student. I have interests in **🟢HTML**, **🟢CSS** and **🟢C++** and I can **🟢Design** as well. I'm from India. You can contact me using 🟢[LinkedIn](https://www.linkedin.com/in/himank-varshney-42b96717a/). I have a lot to learn and I hope you give me the opportunity !
+[![Header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/himank-varshney-42b96717a/)
 
-📗I use C/C++ for coding | 🐍Will start learning python soon | 🚵‍♂️Recent Activity :<a href="https://github.com/VARhimank/MLH-Local-Hack-Day">[Click here]</a>⛳
+🎓 **CSE College Student | Aspiring Developer & Designer**  
+📍 India
 
-🍀![](https://komarev.com/ghpvc/?username=VARhimank&color=brightgreen)🚙
+---
+
+## 🚀 About Me
+
+Hello! I'm **Himank Varshney**, a passionate Computer Science student with a growing interest in:
+
+- 💻 **HTML & CSS** – Building clean and responsive web designs  
+- ⚙️ **C / C++** – Strong foundation in programming  
+- 🎨 **UI Design** – Creating visually appealing interfaces  
+- 🐍 **Python** – L
